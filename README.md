@@ -1,5 +1,7 @@
 # Availability-Attacks-Create-Shortcuts
 
+Code for KDD 2022 Research Track paper ["Availability Attacks Create Shortcuts"](https://arxiv.org/abs/2111.00898).
+
 This code is tested with python3 and PyTorch 1.8. 
 
 Please first install the following packages:
